@@ -98,7 +98,13 @@ portfolio/
 
 ## What's Pending
 
-### Phase 7 — Final polish, SEO meta, favicon, deployment
+### Phase 7 — Deployment 🔧 in progress
+- Git repo initialized, `.gitignore` excludes `node_modules/` and `dist/`
+- Initial commit made: all 31 files, 4694 lines
+- Production build verified clean
+- GitHub repository created ✅
+- `git push` to GitHub in progress 🔧
+- Next: complete push → connect repo to Vercel → deploy
 
 ---
 
