@@ -73,6 +73,18 @@ export const content = {
       quote: "It was an amazing experience to work with Rudraksh. He is one of the rare individuals who will work the hardest in the team but still carries an infectious smile all the time. He is a quick learner and always willing to go above and beyond of what is expected of him. We were part of the same team in Rethink Systems and I always used to look forward to engaging discussions with him as he brings a fresh perspective. He is a great team player, who is eager to receive feedback and work on it to improve himself.",
       avatar: null,
     },
+    {
+      name: "Jay",
+      role: "CTO at Skills Outsource",
+      quote: "I had the pleasure of working with Rudraksh during his time as an Associate Product Manager at our company, where we built client-specific digital marketing tools for B2B clients. In that role, he consistently stood out — not just for his ability to manage multiple projects simultaneously, but for how naturally he brought people together around a shared goal. What impressed me most was Rudraksh's communication across functions. He had a rare ability to translate client requirements into clear, actionable briefs for the engineering team, while keeping stakeholders aligned without creating noise. On more than one occasion, he stepped in to resolve ambiguity mid-sprint — reframing the problem, getting the right people in the room, and moving things forward without escalation. He also showed strong product instincts for someone early in his career. He asked the right questions, pushed back constructively when something didn't make sense for the user, and consistently kept the broader business context in mind. Rudraksh is the kind of person who makes a team run better just by being in it. I'd recommend him without hesitation for any product role — especially one that values clear thinking, ownership, and the ability to work across complex stakeholder environments.",
+      avatar: null,
+    },
+    {
+      name: "Bhavesh",
+      role: "Solution Architect at Accenture",
+      quote: "I highly recommend Rudraksh for his exceptional problem-solving skills, enthusiastic personality, and outstanding communication abilities. In our time working together, I've witnessed his dedication to tackling challenges head-on with a positive attitude, always finding innovative solutions. His excellent communication skills make him a valuable asset to any team, as he effectively conveys ideas and collaborates seamlessly. Rudraksh is a true professional who brings energy and efficiency to every task he undertakes.",
+      avatar: null,
+    },
   ],
 
   faq: [
